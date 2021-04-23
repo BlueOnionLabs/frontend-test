@@ -52,9 +52,7 @@ Note a few things:
 - The billing details is a nested structure, but is not an array
 - The sources field is an array. Is there a good way to put this into the table? If not, how would you go about laying out the page differently to display this 1-to-many data?
 
-### Extra Credit!?
-
-- Put together a good looking layout for the page
+- Give your best shot at styling the page and making a nice clean layout
 
 ### Some Helpful Component Libraries
 
